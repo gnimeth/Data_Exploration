@@ -20,8 +20,6 @@ Creating a Python script to analyze the financial records of a company along wit
 
 ## PyPoll Roadmap
 
-In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
-
 * Create a Python script that analyzes the votes and calculates each of the following:
 
 * The total number of votes cast
